@@ -1,0 +1,8 @@
+/* estilos de main */
+main {
+  display: grid;
+  grid-template-columns: repeat(2, 1);
+  grid-template-rows: repeat(4, 2fr);
+}
+
+/*# sourceMappingURL=styles.css.map */
